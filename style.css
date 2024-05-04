@@ -1,0 +1,39 @@
+#salom{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: burlywood;
+    width: 300px
+    margin: 0 auto;
+}
+form{
+    text-align: center;
+}
+div{
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+}
+button{
+    width: 200px;
+    height: 20px;
+    background-color: rgb(88, 211, 88);
+    color: white ;
+    border: none;
+    border-radius: 30px;
+}
+div{
+    margin: 0 auto;
+    width: 800px;
+    height: 500px;
+}
+input{
+    border-radius: 20px;
+}
+form{
+    color: white;
+}
+label{
+    color: yellow;
+}
+h4{
+    text-align: center;
+}
